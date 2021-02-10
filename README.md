@@ -13,4 +13,3 @@ How to use:
 
 
 Daca doresti sa faci un Commit follow the steps:
-                           
