@@ -12,7 +12,7 @@ How to use:
 
 4 Arhiveaza Folderul ( right click add to archive)
 
-5 In cazul in care nu te descurci trimitel pe discord/fb/etc ( razvan/edi/sergiu/mice) pentru  a face ei commitul
+5 In cazul in care nu te descurci trimitel pe discord/fb/etc ( razvan/edi/sergiu/mice/prunea ) pentru  a face ei commitul
 
 6 Arhiva sa aiba numele in felul urmator ( LUMEA INTELEPTILOR - 10/2/2021 - 14:00 ) In cazul in care faceti push va rog sa notati la commit ora/data cand se face pentru history
 
